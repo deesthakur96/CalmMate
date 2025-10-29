@@ -1,6 +1,6 @@
 # CalmMate AI Health Companion
 
-This zip contains:
+This Repository contains:
 - `client/` — React + Vite front-end
 - `server/` — Node + Express backend with safety pre-check + optional OpenAI proxy
 
